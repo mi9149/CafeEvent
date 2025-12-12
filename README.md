@@ -27,15 +27,15 @@ Android 앱에서 한눈에 확인할 수 있도록 제공하는 프로젝트입
 ---
 
 ## 🧱 Architecture
-Cafe Websites
-↓
-Python Crawler (BeautifulSoup)
-↓
-MySQL Database
-↓
-Apache + PHP Server
-↓
-Android App
+Cafe Websites<br>
+↓<br>
+Python Crawler (BeautifulSoup)<br>
+↓<br>
+MySQL Database<br>
+↓<br>
+Apache + PHP Server<br>
+↓<br>
+Android App<br>
 
 ---
 
